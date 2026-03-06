@@ -12,13 +12,13 @@ This project was built for the BiteSpeed Backend Engineering Task.
 * **Database:** SQLite (Easily swappable to PostgreSQL/MySQL)
 
 ## 🌐 Live URL
-*(Replace this line with your Render.com hosted URL once deployed, e.g., `https://your-app-name.onrender.com/identify`)*
+https://bitespeed-assignment-iefl.onrender.com/identify
 
 ## 💻 Local Setup Instructions
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/tarunsbharwal/bitespeed-assignment.git
    cd bitespeed-assignment
    ```
 
